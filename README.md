@@ -13,3 +13,5 @@
 ```
 git clone https://github.com/{YOUR_USERNAME}/azure-quickstart-templates
 ```
+
+[google](http://www.google.com/)
